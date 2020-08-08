@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@iamarunraj-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iamarunraj)](https://twitter.com/iamarunraj)
 [![Gmail Badge](https://img.shields.io/badge/-contact2arunrajak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact2arunrajak@gmail.com)](mailto:contact2arunrajak@gmail.com)
 ---
-### Hola Amigo👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Arun Raj!
 ---
 Hi I'm Arun Raj a full stack developer from chennai🇮🇳. I primarily use Reactjs⚛️ .
 
